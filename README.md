@@ -1,2 +1,4 @@
 # kakao-clone
- NomardCoders_kakaoclone prac
+ NomardCoders_kakaoclone practice用
+
+ 頑張れ。
